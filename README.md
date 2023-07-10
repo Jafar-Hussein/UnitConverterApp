@@ -10,3 +10,6 @@ To install and use this app, follow these instructions.
 + make sure you have a correct and updated jdk
 + start the program
 + enter a weight in kilogram it coul even be with decimals
+
+## future update incoming
+next version will be allowing the user to decide which unit they want to convert
